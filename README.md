@@ -1,7 +1,7 @@
-- 👋 Olá mundo! Sou Murilo Carvalho
-- 👀 I’m interested in ...
-- 🌱 Atualmente estou estudando JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Olá mundo! Sou Murilo Carvalho, Desenvolvedor Front-end e Designer.
+- 🌱 Atualmente estou estudando JavaScript.
+- 👀 Estou em busca de uma vaga como Júnior.
+
 
 <!---
 murilocarvalhodev/murilocarvalhodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
